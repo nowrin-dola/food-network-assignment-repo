@@ -1,6 +1,7 @@
 body{
     margin: 0;
-    font-family: 'Lato', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    color: rgb(78, 76, 76);
     
 }
 
@@ -35,13 +36,14 @@ section{
 
 }
 .position-button{
-    margin-bottom: 60px;
+    margin-bottom: 70px;
 }
 .middle-background{
     background-image: url(images/shapes/Frame\ 59.jpg);
     background-size: 1265px;
     width: 100%;
     height: 600px;
+
 }
 #pic-sizing{
     height: 500px;
@@ -49,7 +51,10 @@ section{
     padding-top: 100px;
     padding-left: 100px;
 }
-#position-content{
+.position-content{
     padding-top: 100px;
-    padding-left: 80px
+    padding-right: 20px;
 }
+
+
+
