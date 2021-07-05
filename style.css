@@ -1,0 +1,55 @@
+body{
+    margin: 0;
+    font-family: 'Lato', sans-serif;
+    
+}
+
+h1{
+    font-size: 50px;
+}
+.orange{
+    color: orange;
+}
+section{
+    margin-bottom: 150px;
+}
+
+.flexible-content{
+    display: flex;
+}
+.half-width{
+    width: 45%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 90%;
+}
+.anchor-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, tomato, rgb(233, 47, 186));
+    padding: 20px 40px;
+    border-radius: 30px;
+    color: white;
+    font-weight: 700;
+    
+
+}
+.position-button{
+    margin-bottom: 60px;
+}
+.middle-background{
+    background-image: url(images/shapes/Frame\ 59.jpg);
+    background-size: 1265px;
+    width: 100%;
+    height: 600px;
+}
+#pic-sizing{
+    height: 500px;
+    width: 300px;
+    padding-top: 100px;
+    padding-left: 100px;
+}
+#position-content{
+    padding-top: 100px;
+    padding-left: 80px
+}
