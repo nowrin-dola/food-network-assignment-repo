@@ -37,10 +37,15 @@ body{
 
 h1{
     font-size: 50px;
+    font-weight: 900;
+    margin: 0px 0px 0px 0px;
+
+    
+
 
 }
 p{
-    font-size: 1em;
+    font-size: 1.2em;
     font-weight: 300;
 
 }
@@ -51,7 +56,7 @@ p{
     color: #ea4c89;
 }
 section{
-    margin-bottom: 150px;
+    margin-bottom: 100px;
 }
 
 .flexible-content{
@@ -59,10 +64,12 @@ section{
 }
 .half-width{
     width: 45%;
-    padding-left: 2%;
+    padding-left: 7%;
+    
+
 }
 .half-width img{
-    width: 90%;
+    width: 100%;
 }
 .anchor-button{
     text-decoration: none;
@@ -90,7 +97,7 @@ section{
     padding-top: 100px;
     padding-left: 100px;
 }
-.position-content{
+#position-content{
     padding-top: 100px;
     padding-right: 20px;
 }
@@ -163,18 +170,20 @@ h2{
 }
 .footer-container{
     width: 100%;
-    height: 350px;
+    height: 375px;
     background-color: rgb(29, 27, 27);
     margin-top: 150px;
 }
+
 .footer-details{
     text-align: center;
-    padding: 50px;
+    padding:50px 50px 10px 50px;
     
 }
 .social-icon{
     text-align: center;
     padding: 20px;
+    
 }
 
 .fa {
